@@ -52,3 +52,8 @@ On-Demand Instance: Tính theo giờ, đáp ứng nhu cầu dùng trong thời g
 Reserved Instance: Cho phép trả trước 1 lượng Server cho 1 hoặc 3 năm. Chi phí chỉ bằng 75% so với On-Demand. Nêú không có nhu cầu sử dụng trong thời gian dài, bạn có thể sale tại Reserved Instance Marketplace
 
 ![alt text](ec2.png "Title")
+
+# IAM Policy
+Như chúng ta đã biết, Amazone IAM (Identity and Access Management) dùng để kiểm soát quyền truy cập của các cá nhân (Users) và các nhóm (Groups) đến tài nguyên của AWS.
+
+Policy là các điều khoản được tạo hoặc chỉ định để kiểm soát quyền truy cập vào tài nguyên của AWS. Mỗi một policy có những tính năng và quyền hạn nhất định gắn với User, Group, Roles trong IAM.
