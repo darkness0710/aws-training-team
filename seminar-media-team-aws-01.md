@@ -26,3 +26,5 @@ A network access control list (ACL) là một lớp bảo mật cho VPC, thực 
 
 # NAT Gateway
 NAT gateway cho phép 1 Instance trong private subnet có thể kết nối với Internet hoặc các dịch vụ khác của AWS, và hoạt động theo một chiều, nghĩa là từ Internet không thể kết nối đến Instance này.
+
+![alt text](VPC.png "Title")
